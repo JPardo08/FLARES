@@ -39,7 +39,7 @@ We refer as 5W1H method to the technique used to extract comprehensive informati
 - The approach demonstrates that treating the problem as an NER task, combined with external knowledge, is both feasible and effective for this challenge.
 
 ## Team
-Ontology Engineering Group, Departamento de Inteligencia Artificial, Departamento de Sistemas Informáticos, ETSI Informáticos, Universidad Politécnica de Madrid, Madrid, Spain.
+Ontology Engineering Group, Departamento de Inteligencia Artificial, ETSI Informáticos, Universidad Politécnica de Madrid.
 - Joel Pardo-Ferrera
 - Jiayun Liu
 - Virginia Ramón-Ferrer
